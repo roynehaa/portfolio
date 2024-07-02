@@ -4,7 +4,7 @@ This project focuses on generating the Minimum Variance Portfolio by applying po
 
 ## Project Description
 
-The project involves the following key activities:
+The project involves the following key activity:
 
 - Perform portfolio optimization to generate the minimum variance portfolio using a diverse selection of Indian stocks.
 - Research and study various concepts like CAPM, Sharpe ratio, Risk vs Reward, Efficient frontier, and Beta factor.
